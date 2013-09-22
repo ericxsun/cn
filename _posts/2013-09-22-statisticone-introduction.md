@@ -17,6 +17,7 @@ $sudo yum install R
 
 
 2.Installing RStudio
+
 [下载RStudio](http://www.rstudio.com/ide/download/)
 
 {% highlight bash %}
@@ -24,4 +25,4 @@ $sudo yum localinstall Rstudio.rpm
 {% endhighlight %}
 
 
-R语言，不会啊。跟这个课，把统计学一篇，顺便把R把玩一下。
+R语言，不会啊。跟这个课，把统计学一遍，顺便把R把玩一下。
