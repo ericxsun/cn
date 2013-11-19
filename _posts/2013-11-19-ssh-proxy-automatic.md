@@ -15,7 +15,7 @@ $ssh -C -N -D 127.0.0.1:7070 ssh2222@216.194.70.6
 
 不过每次这样输入大麻烦了，今天闲着，试了下expect(用于自动化地执行linux环境下的命令行交互任务)。直接上代码(ssh_proxy.exp)：
 
-{% highlight bash inenos %}
+{% highlight bash linenos %}
 #!/usr/bin/expect
 
 set timeout 30
