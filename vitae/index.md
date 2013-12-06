@@ -10,7 +10,7 @@ published: true
 > - 邮编:
 > - Tel: 
 > - Email: followyourheart1211@gmail.com
-> - 主页: <http://followyourheart.github.io/>
+> - 主页: <http://followyourheart.github.io/>, <https://github.com/followyourheart>
 
 
 ### 研究兴趣
