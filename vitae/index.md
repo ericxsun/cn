@@ -50,7 +50,7 @@ published: true
 
 
 ### 计算机水平
-> - 软件：熟悉Matlab
+> - 软件：熟悉Matlab([octave](http://www.gnu.org/software/octave/)是一个不错的开源选择.)
 > - 语言：C, Python, Bash脚本
 > - 应用程序：专业排版软件LaTeX，常用数据库MongoDB，集群Hadoop+Hive(人类在线行为分析)
 > - 算法：机器学习基本算法， 如回归， ANN等
