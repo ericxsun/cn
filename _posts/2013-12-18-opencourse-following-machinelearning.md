@@ -8,7 +8,7 @@ tags: [machine learning]
 2014-01-05 更新
 今天完整学完了Ng的Machine Learning这门课。
 
-有一个问题一直没明白。在Neural Networks Learning这一节的一个程序"checkNNGradients.m"的
+有一个问题一直没明白。在Neural Networks Learning这一节的一个程序"checkNNGradients.m"中
 
 {% highlight matlab%}
 diff = norm(numgrad-grad)/norm(numgrad+grad);
