@@ -12,7 +12,7 @@ tags: [machine learning]
 
 {% highlight matlab%}
 diff = norm(numgrad-grad)/norm(numgrad+grad);
-{% endhightlight %}
+{% endhighlight %}
 
 用以衡量两个梯度的差异。通过我们直接用norm(numgrad-grad)就可以。但为什么他要再除一个norm(numgrad+grad)呢？
 
