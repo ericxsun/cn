@@ -7,7 +7,7 @@ comments: yes
 # 牛人
 
 - [v_JULY_v](http://blog.csdn.net/v_july_v/)
-
+- [SnakeHunt2012](http://www.cnblogs.com/SnakeHunt2012/)
 
 # 机器学习、数据挖掘、人工智能
 
