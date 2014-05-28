@@ -17,3 +17,5 @@ So for a template to work, the compiler intuitively needs two pieces of informat
 void func(int, float), or whatever its signature is.
 
 When you declare the function template without defining it, you're only telling the compiler that such a template exists, but not what it looks like. That's not enough for the compiler to be able to instantiate it, it has to be able to see the full definition as well. The usual solution is to put the entire template in a header that can be included where needed.
+
+When you declare the function template without defining it, you're only telling the compiler that such a template exists, but not what it looks like. That's not enough for the compiler to be able to instantiate it, it has to be able to see the full definition as well. The usual solution is to put the entire template in a header that can be included where needed.
